@@ -1,0 +1,7 @@
+torch
+numpy
+pandas
+matplotlib
+streamlit 
+scikit-learn==1.3.2
+imbalanced-learn
