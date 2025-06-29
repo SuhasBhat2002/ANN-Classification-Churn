@@ -127,7 +127,7 @@ See `requirements.txt` for full list. Key libraries include:
 
 * `pandas`, `numpy`
 * `torch`, `sklearn`, `imblearn`
-* `joblib`, `streamlit`
+* `pickle`, `streamlit`
 
 ---
 
